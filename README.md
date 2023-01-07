@@ -7,7 +7,6 @@ Repository for submitting, managing, and solving issues relating to Monsoon Clie
 
 </div>
 
-
 ### Versions
 
 **Please ensure that you are on the latest version before reporting a bug!**
@@ -46,6 +45,10 @@ Simply open an issue with the correct template.
 ### Non-working bypass reports
 
 Have you found a bypass that no longer works? Please use [this form][broken bypass] to report it. Make sure to fill out all of the fields so that we can fix the bypass as soon as possible!
+
+### Abuse of this tool, such as creating unnecessary issues, spamming, or being an asshole will result in a blacklist from submitting issues, and possible further punishment relating to Monsooon Client or the Monsoon Discord server. 
+
+You get one strike. Don't do it.
 
 [new bug]: https://github.com/MonsoonDevelopment/Monsoon-Issues/issues/new?assignees=&labels=&template=bug.md&title=%5BBUG%5D+
 [new feature]: https://github.com/MonsoonDevelopment/Monsoon-Issues/issues/new?assignees=&labels=&template=feature.md&title=%5BFEATURE%5D+
