@@ -1,3 +1,4 @@
+---
 name: Bug
 about: Let us know about a bug in the client
 title: "[BUG] "
